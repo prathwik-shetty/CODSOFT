@@ -1,4 +1,4 @@
-# Task 2 – Tic-Tac-Toe AI
+# Task 2 – Tic-Tac-Toe 
 
 This project implements an unbeatable Tic-Tac-Toe game where a human player competes against the computer.
 
